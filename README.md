@@ -10,3 +10,18 @@ Instagram: @helenkooptero
 LinkedIn: https://www.linkedin.com/in/helen-luise-koop-7102ba26a/
 
 Email: lelenluise@gmail.com
+
+*
+
+Hi! 👋 I'm Helen, a tech enthusiast on a continuous learning journey.
+My journey began in the world of education, as an English teacher, but my passion for technology led me to explore new areas.
+Currently, I'm diving into the world of programming, focusing on Javascript, C/C++, as well as C#. I also love to experiment with Artificial Intelligence and participated in some events and immersions on the subject this year. 🤩
+Here on Github, you'll find some of my projects and experiments. I'm always open to collaborating and learning from new ideas! ✨
+
+To follow my adventures in the tech world, find me at:
+
+Instagram: @helenkooptero
+
+LinkedIn: https://www.linkedin.com/in/helen-luise-koop-7102ba26a/
+
+Email: lelenluise@gmail.com
