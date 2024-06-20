@@ -11,7 +11,7 @@ LinkedIn: https://www.linkedin.com/in/helen-luise-koop-7102ba26a/
 
 Email: lelenluise@gmail.com
 
-*
+****
 
 Hi! 👋 I'm Helen, a tech enthusiast on a continuous learning journey.
 My journey began in the world of education, as an English teacher, but my passion for technology led me to explore new areas.
