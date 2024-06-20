@@ -4,6 +4,9 @@ Atualmente, estou mergulhando no mundo da programação, com foco em Javascript,
 Aqui no Github, você encontra alguns dos meus projetos e experimentos. Estou sempre aberta a colaborar e aprender com novas ideias! ✨
 
 Para acompanhar minhas aventuras no mundo tech, me encontre em:
+
 Instagram: @helenkooptero
+
 LinkedIn: https://www.linkedin.com/in/helen-luise-koop-7102ba26a/
+
 Email: lelenluise@gmail.com
